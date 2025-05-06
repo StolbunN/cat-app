@@ -1,0 +1,15 @@
+.form {
+  margin-bottom: 30px;
+}
+
+.input-wrapper {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+
+.input-wrapper:first-child {
+  margin-bottom: 20px;
+}
+
